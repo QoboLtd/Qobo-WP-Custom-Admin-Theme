@@ -4,7 +4,7 @@ Plugin Name: Custom Admin Theme
 Plugin URI: https://github.com/QoboLtd/Qobo-WP-Custom-Admin-Theme
 Description: Customize Admin Theme
 Author: Antonis Flangofas
-Version: 1.0
+Version: 1.0.0
 Author URI: http://github.com/flangofas
 */
 
